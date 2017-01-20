@@ -1,0 +1,8 @@
+name: CommandManager
+main: com.vexentric.commandmanager.Main
+author: Vexentric
+version: 1.0
+
+commands:
+  test:
+    description: Test of custom command.
